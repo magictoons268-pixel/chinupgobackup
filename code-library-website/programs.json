@@ -1,0 +1,72 @@
+[
+  {
+    "filename": "bfs_dfs_9.py",
+    "title": "Graph Traversal: BFS & DFS",
+    "description": "Demonstrates depth-first traversal with an adjacency matrix and breadth-first traversal with an adjacency list.",
+    "language": "Python",
+    "category": "Graphs"
+  },
+  {
+    "filename": "bst_10.py",
+    "title": "Binary Search Tree",
+    "description": "Implements insertion, search, deletion, and inorder, preorder, and postorder traversals for a binary search tree.",
+    "language": "Python",
+    "category": "Trees"
+  },
+  {
+    "filename": "hastable_7.py",
+    "title": "Hash Table with Chaining",
+    "description": "Implements a hash table with key-value pairs, collision handling through chaining, and insert, search, delete, and display operations.",
+    "language": "Python",
+    "category": "Hashing"
+  },
+  {
+    "filename": "lib_1.py",
+    "title": "Library Borrowing Analysis",
+    "description": "Analyzes sample library borrowing records to calculate average borrowing, most and least borrowed books, and zero-borrowing members.",
+    "language": "Python",
+    "category": "Data Analysis"
+  },
+  {
+    "filename": "probing_8.py",
+    "title": "Hash Table with Linear Probing",
+    "description": "Implements insertion, searching, deletion markers, and display for a hash table using linear probing.",
+    "language": "Python",
+    "category": "Hashing"
+  },
+  {
+    "filename": "queue_5.py",
+    "title": "Event Processing Queue",
+    "description": "Uses a queue to add, process, list, and cancel pending events through a menu-driven interface.",
+    "language": "Python",
+    "category": "Queues"
+  },
+  {
+    "filename": "search_2.py",
+    "title": "Linear & Binary Search",
+    "description": "Compares linear and binary search for customer account IDs, sorting the list before binary search.",
+    "language": "Python",
+    "category": "Searching"
+  },
+  {
+    "filename": "SLL6.py",
+    "title": "Student Records with a Singly Linked List",
+    "description": "Manages student records in a singly linked list with add, delete, update, search, and sorted display operations.",
+    "language": "Python",
+    "category": "Linked Lists"
+  },
+  {
+    "filename": "sorting_3.py",
+    "title": "Selection & Bubble Sort",
+    "description": "Sorts sample employee salaries using selection sort and bubble sort, then displays the five highest salaries.",
+    "language": "Python",
+    "category": "Sorting"
+  },
+  {
+    "filename": "stack_4.py",
+    "title": "Text Editor Undo/Redo Stack",
+    "description": "Models text editing with undo and redo stacks, displaying the document state as changes are made.",
+    "language": "Python",
+    "category": "Stacks"
+  }
+]
